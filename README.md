@@ -8,7 +8,7 @@ This project performs customer and operational analytics for airlines using Mong
 - MongoDB Aggregation Pipeline (operational + review analytics)
 - JavaScript (MongoDB query scripts)
 
-## SQL Work (Proficiency Focus)
+## SQL Queries Used
 Implemented end-to-end analytics queries demonstrating strong SQL capability, including:
 - Multi-table joins to combine customer, flight, and review datasets
 - Aggregations using `GROUP BY`, `COUNT()`, `AVG()`, `SUM()` to compute KPI summaries
