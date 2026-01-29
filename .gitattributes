@@ -1,5 +1,8 @@
+# Force SQL to be recognized and counted
 *.sql linguist-language=SQL
+*.sql linguist-detectable=true
 *.sql linguist-vendored=false
 *.sql linguist-generated=false
-*.js linguist-vendored=true
 
+# Hide JS from the language bar
+*.js linguist-vendored=true
