@@ -1,5 +1,5 @@
 *.sql linguist-language=SQL
 *.sql linguist-vendored=false
 *.sql linguist-generated=false
+*.js linguist-vendored=true
 
-Airline Customer Analytics.js linguist-vendored=true
