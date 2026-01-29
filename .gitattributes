@@ -1,3 +1,4 @@
 *.sql linguist-language=SQL
-Airline\ Customer\ Analytics.js linguist-vendored
+Airline Customer Analytics.js linguist-generated=true
+
 
