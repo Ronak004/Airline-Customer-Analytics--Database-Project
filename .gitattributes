@@ -2,4 +2,4 @@
 *.sql linguist-vendored=false
 *.sql linguist-generated=false
 
-
+Airline Customer Analytics.js linguist-vendored=true
