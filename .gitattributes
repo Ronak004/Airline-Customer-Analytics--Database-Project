@@ -1,8 +1,5 @@
 *.sql linguist-language=SQL
-*.js linguist-vendored=true
-
-*.sql linguist-language=SQL
-*.sql linguist-generated=false
 *.sql linguist-vendored=false
-*.js linguist-vendored=true
+*.sql linguist-generated=false
+
 
